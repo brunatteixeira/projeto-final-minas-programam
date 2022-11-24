@@ -95,7 +95,6 @@ h1{
 }
 
 
-
 #tituloDepoimentos{
     text-align:center;
      
@@ -125,15 +124,12 @@ color: rgb(0, 0, 0);
 }
 
 
-
 .icones-contato{
     width: 65px;
 
 }
 
 .form-contato{
-    
-
     width: 500px;
     height: 500px;
     background-color: #fff;
@@ -143,9 +139,6 @@ color: rgb(0, 0, 0);
     transform: translate (-50%,-50%);
     border-radius:15px;
     margin-top: 75px;
-  
-  
-
 }
 
 form{
@@ -179,8 +172,6 @@ form{
     border: none;
     cursor: pointer;
     margin-bottom: 10px;
-    
-
 }
 
 .contato-imagem{
